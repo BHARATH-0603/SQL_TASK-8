@@ -89,6 +89,6 @@ END //
 DELIMITER ;
 
 SELECT GetCustomerName(1) ;
-drop FUNCTION GetCustomerName 
+
 
 
